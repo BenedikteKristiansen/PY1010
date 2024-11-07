@@ -40,7 +40,7 @@ print("Elbil:",BE)
 print("Bensinbil:",BB)
 print("Elbil er",BB-BE, "Kr billigere i bom pr", D, "Km kjørt pr år" )
 print()
-print("Trafikkforsikringsavgift begge:", Tfa*365)
+print("Trafikkforsikringsavgift begge:", Tfa)
 
 
 print("Årlig totalkostnad:")
